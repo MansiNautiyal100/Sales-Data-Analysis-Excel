@@ -1,5 +1,5 @@
 # 📊 Sales Data Analysis Dashboard (Excel)
-
+An Excel-based interactive dashboard project to analyze sales performance and generate business insights.
 ## 🔍 Project Overview
 This project focuses on analyzing sales data using Microsoft Excel. The goal was to extract meaningful insights and build an interactive dashboard.
 
@@ -13,7 +13,12 @@ This project focuses on analyzing sales data using Microsoft Excel. The goal was
 - Sales by Region
 - Sales by Category
 - Monthly Sales Trends
-
+- 
+## 🔍 Insights
+- West region generated the highest sales
+- Technology category performed better compared to others
+- Sales showed a consistent trend over time
+- 
 ## 📈 Dashboard Features
 - Interactive filters using slicers
 - Visual representation using charts
