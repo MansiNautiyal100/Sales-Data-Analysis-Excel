@@ -19,10 +19,9 @@ This project focuses on analyzing sales data using Microsoft Excel. The goal was
 - Technology category performed better compared to others
 - Sales showed a consistent trend over time
 - 
-## 📈 Dashboard Features
-- Interactive filters using slicers
-- Visual representation using charts
-- Clean and structured layout
+## 📸 Dashboard Preview
+(<img width="1605" height="662" alt="Sales data Dashboard" src="https://github.com/user-attachments/assets/96881ace-733e-40fe-97b9-85fa84f295a8" />
+
 
 ## 📁 Files Included
 - Excel dashboard file
